@@ -9,7 +9,7 @@ To run this application locally, follow these steps:
 ```bash
 
 # Clone this repository to your local machine
-git clone https://github.com/Mustafiz82/jobtask-Motion-art.git
+git clone https://github.com/xxdollars/Jobtask-Motion-Art.git
 
 # Navigate into the project directory
 cd jobtask-Motion-art
